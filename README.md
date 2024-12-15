@@ -1,4 +1,5 @@
-<img src="https://github.com/phuongtrieu97coder/Readme_Content_Structure/assets/82598726/736e7080-2071-448e-b1db-ab6b6b25ff22" alt="C#" width="40px" height="40px">
+![image](https://github.com/user-attachments/assets/35e6c517-5e16-447e-bd17-036999872fe7)
+
 
 ![image](https://github.com/phuongtrieu97coder/C_Sharp_projects/assets/82598726/544a4a06-1dee-47fe-a3f9-3f650864b2c7)
 
